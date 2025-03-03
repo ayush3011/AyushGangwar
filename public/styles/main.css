@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+body{
+    background-color: #222831;
+    /* background-image: url("c:/User s/pc/OneDrive/Desktop/Website/public/images/1.png"); */
+}
+a{
+    letter-spacing: 2px;
+    
+}
+a:hover{
+    transform: scale(1.05);
+}
+nav{
+    /* border: 2px solid grey; */
+    background-color: #31363F;
+    padding: 0;
+    position: fixed;
+}
+p{
+    color: #EEEEEE;
+}
+.home{
+    background-color: #31363F;
+}
+
+.collapsed-btn{
+    background-color: #76ABAE;
+    margin-bottom: 10px;
+}
+
+.navbar-btn{
+    color: #EEEEEE;
+    font-size: x-large;
+    /* border: 2px solid white; */
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #76ABAE;
+}
+
+h1{
+    color: #76ABAE;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 3.5px;
+}
+
+h3{
+    color: #EEEEEE;
+    letter-spacing: 1px;
+}
+.my-intro{
+    color: #EEEEEE;
+    /* display: inline; */
+}
+h2{
+    color: #76ABAE;
+    letter-spacing: 2px;
+}
+.resume-btn p{
+    margin-bottom: 0;
+}
+.resume-btn:hover{
+    background-color: #3f6f72;
+    /* font-size: xx-large; */
+}
+
+.about-container{
+    background-color: #31363F;
+}
+
+.p-about{
+    color: #EEEEEE;
+}
+
+.about-img{
+    border-radius: 50%;
+    border: 5px solid #76ABAE;
+}
+
+.contact-profile{
+    background-color: #31363F;
+    border: #76ABAE;
+}
+.contact-profile:hover{
+    background-color: #404651;
+    transform: scale(1.10);
+}
+/* .contact-profile:active{
+    background-color: #5d6471;
+} */
+/* .contact-profile:visited{
+    background-color: #5d6471;
+} */
+.rounded-circle{
+    margin-right: 15px;
+}
+.skill-section{
+    background-color: #31363F;
+}
+.skill-section p{
+    color: #EEEEEE;
+}
+.skill-box{
+    background-color: #444a54;
+}
+.skill-title{
+    color: #76ABAE;
+}
+
+.card-body{
+    background-color: #31363F;
+}
+.card{
+    border: 0;
+}
+.project-title{
+    color: #76ABAE;
+}
+.card:hover {
+    transform: scale(1.02);
+    border: 2px solid #76ABAE;
+}
+span{
+    font-size: 1.4rem;
+}
+.about-para{
+    font-size: 1.3rem;
+}
+
+.project-container-display{
+    display: flex;
+    flex-direction: row;
+}
+
+footer p{
+    text-align: center;
+    /* border: 2px solid white; */
+    background-color: #31363F;
+    border-radius: 5px;
+}
+
